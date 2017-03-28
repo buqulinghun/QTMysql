@@ -5,6 +5,7 @@
 #include<QSqlQuery>
 #include<QSqlError>
 #include<iostream>
+//stard lib
 using namespace std;
 
 int main(int argc, char *argv[])
